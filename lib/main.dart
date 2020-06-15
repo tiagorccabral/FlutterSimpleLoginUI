@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_login/Screens/welcome_screen.dart';
+import 'package:simple_login/Screens/Welcome/welcome_screen.dart';
 import 'package:simple_login/constants.dart';
 
 void main() {
