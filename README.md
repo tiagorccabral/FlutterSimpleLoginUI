@@ -1,6 +1,6 @@
-# simple_login
+# Simple SignIn/SignUp App
 
-A new Flutter project.
+Created using Flutter
 
 ## Getting Started
 
